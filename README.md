@@ -59,7 +59,7 @@ By analyzing the delivery data, this project aims to provide actionable recommen
 4. The average delay time for customers is 15 minutes, meaning any delay beyond this is considered extreme. About 46.73% of customers orders were extremely delayed.
 5. Drivers are averaging 16 trips each. Drivers with fewer than 16 trips are considered underutilized. Notably, Driver 34, who has made 25 trips in 8 days, has the highest number of delays in minutes, indicating potential areas for review in driver allocation and route planning.
 6. September 3rd stands out as the peak delivery day between September 1st and September 8th, indicating potential capacity issues on that specific date.
-7. Delivery times vary significantly across cities. City B has the highest average delivery time of 513.16 minutes, while City D boasts the lowest average delivery time at 149.70 minutes.
+7. Delivery times vary significantly across cities. City B has the highest average delivery time of 153.16 minutes, while City D boasts the lowest average delivery time at 149.70 minutes.
 8. City B is handling the highest volume with 320 orders, whereas City E has the lowest with 272 orders.
 9. For all completed orders, Route 2 experienced the highest number of delay time with a total of 2,201 mins, while Route 1 experienced the lowest with a total of 1,898 mins.
 
@@ -74,9 +74,10 @@ By analyzing the delivery data, this project aims to provide actionable recommen
 6. Integrate advanced technologies such as GPS tracking, automated dispatch systems, and real-time traffic data to reduce delays and improve overall operational efficiency.
 7. Enhance customer support services to promptly address and resolve issues related to delays and other concerns, this can help mitigate the impact of delays on customer satisfaction.
 8. Consider offering incentives such as discounts or vouchers to customers affected by significant delays, as a goodwill gesture to maintain positive relationships and loyalty.
-9. Use key performance indicators (KPIs) such as average delivery time, delay times, driver utilization, and customer feedback to continually assess and improve the effectiveness of implemented strategies
+9. Use key performance indicators (KPIs) such as average delivery time, delay times, driver utilization, and customer feedback to continually assess and improve the effectiveness of implemented strategies.
 
 
 ### Conclusion
+
 Streamline Logistics Solutions faces several challenges in its order fulfillment processes, including significant delays, uneven driver utilization, and varying delivery times across cities. By optimizing driver allocation, improving route planning, enhancing customer communication, and focusing on city-specific strategies, we can address these issues effectively. 
 Implementing real-time updates, increasing resources on peak delivery days, and leveraging technology for operational efficiency will further reduce delays and improve customer satisfaction. Regular performance monitoring and targeted improvements based on feedback will help maintain its reputation for reliability and excellence. By adopting these recommendations, Streamline Logistics Solutions can achieve a more efficient, customer-centric, and successful order fulfillment process.
