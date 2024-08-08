@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Streamline Logistics Solutions is facing significant challenges in its order fulfillment process, including: mounting order backlogs, lack of order visibility for customers, rising customer dissatisfaction due to delays and communication gaps, and escalating operational costs. This data analysis project aims to address these challenges by developing an interactive Excel dashboard that enhances visibility, efficiency, and customer satisfaction in its order fulfillment operations.
+Streamline Logistics Solutions is facing significant challenges in its order fulfillment process, including: mounting order backlogs, lack of order visibility for customers, rising customer dissatisfaction due to delays and communication gaps, and escalating operational costs. This data analysis project aims to address these challenges by developing an Excel dashboard that enhances visibility, efficiency, and customer satisfaction in its order fulfillment operations, and also provide actionable recommendations to drive sustainable business growth.
 
 
 ### Data Sources
@@ -47,8 +47,7 @@ The dataset underwent thorough cleaning and preparation to ensure data integrity
 
 ###  Exploratory Data Analysis (EDA)
 
-EDA was conducted using pivot tables and statistical techniques to uncover insights into the challenges in Streamline logistics solutions. Analyzing customer satisfaction through average delivery time, customer complaints related to delays, helps benchmark performance against customer expectations, and address pain points; while customer communication, monitoring progress and delays, resource allocations and efficiency patterns were analyzed across the order timestamp.
-By analyzing the delivery data, this project aims to provide actionable recommendations to drive sustainable business growth.
+EDA was conducted using pivot tables and statistical techniques to uncover insights into the challenges in Streamline logistics solutions. Analyzing customer satisfaction through average delivery time, customer complaints related to delays, helps benchmark performance against customer expectations, and address pain points; while customer communication, monitoring progress and delays, resource allocations and efficiency patterns were analyzed across the order timestamp. 
 
 
 ### Results and Insights
@@ -56,7 +55,7 @@ By analyzing the delivery data, this project aims to provide actionable recommen
 1. Streamline logistics solutions has 1,500 orders to be delivered to 5 cities (City A, B, C, D, and E), within the 1st and the 8th of September, 2023. This logistics company has 100 drivers with unique driver IDs and three different vehicles used for deliveries i.e Van A, Truck B and Bike C.
 2. Currently, there are 767 orders in progress and 733 orders have been completed. Despite the high volume, delays are a significant issue. Of the completed orders, 712 experienced delays, and 742 of the in-progress orders are also delayed.
 3. There are 529 negative feedbacks, 490 neutral feedbacks, and 481 positive feedbacks from customers. This distribution highlights the need for targeted improvements to increase positive customer experiences.
-4. The average delay time for customers is 15 minutes, meaning any delay beyond this is considered extreme. About 46.73% of customers orders were extremely delayed.
+4. The average delay time for delivery is 15 minutes, meaning any delay beyond this is considered extreme. About 46.73% of customers orders were extremely delayed.
 5. Drivers are averaging 16 trips each. Drivers with fewer than 16 trips are considered underutilized. Notably, Driver 34, who has made 25 trips in 8 days, has the highest number of delays in minutes, indicating potential areas for review in driver allocation and route planning.
 6. September 3rd stands out as the peak delivery day between September 1st and September 8th, indicating potential capacity issues on that specific date.
 7. Delivery times vary significantly across cities. City B has the highest average delivery time of 153.16 minutes, while City D boasts the lowest average delivery time at 149.70 minutes.
