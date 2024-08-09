@@ -39,7 +39,7 @@ The dataset underwent thorough cleaning and preparation to ensure data integrity
 - creating a table using CTRL + T,
 - standardizing formats,
 - creating new columns:
-  - Driver status, using (=IFERROR((IF(COUNTIFS([Driver ID], [@[Driver ID]]) < 16, "Under Utilized","Utilized")), "")),
+  - Driver status, using (=IFERROR((IF(COUNTIFS([Driver ID], [@[Driver ID]]) < 16, "Under Utilized","Utilized")),
   - Actual Delivery Duration, using (=[@[Delivery Time (min)]]-[@[Delays (min)]]),
   - Delay Status, using (=IF([@[Delays (min)]]>0,"Delayed", "On time")).
 - splitting the delivery address column into 2 (delivery address and delivery city), to allow for easy readability and analysis.
